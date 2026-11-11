@@ -89,7 +89,7 @@ A computer-vision project exploring incremental face-recognition workflows for a
 **Rendi · AI & Computer Vision Engineer Intern (2026)**
 
 - Engineered a reproducible **73,374-image** garment dataset using fixed splits, **38 WebDataset shards**, and exact-hash leakage validation.
-- Trained and evaluated **ConvNeXt, DINO-family and SigLIP2-based** computer-vision models with **PyTorch on NVIDIA A100 GPUs**, comparing task-specific metrics, errors and runtime behavior.
+- Trained and evaluated **ConvNeXt, DINO-family and SigLIP2-based** computer-vision models with **PyTorch on NVIDIA H100 and A100 GPUs**, comparing task-specific metrics, errors and runtime behavior.
 - Used **Modal + AWS S3 + Weights & Biases** for repeatable experiments and traceable outputs. Investigated weighted ensembles, calibration and multimodal inference workflows.
 
 **BitApp · AI Engineer, LLM/RAG & Agent Workflows (2025)**
