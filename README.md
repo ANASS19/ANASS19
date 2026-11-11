@@ -35,6 +35,24 @@ My approach: **build clean datasets → run reproducible experiments → evaluat
 
 ### `02 // SELECTED WORK`
 
+<div align="center">
+
+### ⭐ Featured Project — [VisionForge AI](https://github.com/ANASS19/visionforge-ai)
+
+<a href="https://github.com/ANASS19/visionforge-ai"><img src="https://raw.githubusercontent.com/ANASS19/visionforge-ai/main/assets/banner.svg" alt="VisionForge AI — model adaptation, vision transformers and image pipelines" width="100%" /></a>
+
+**From large image collections to adapted models, measured experiments, and interactive inspection.**
+
+An AI engineering portfolio spanning **computer vision, vision-language models, parameter-efficient fine-tuning, and image data engineering** — with training pipelines, model adaptation, evaluation, explainability, and Streamlit interfaces.
+
+`PyTorch` · `Vision Transformers` · `LoRA / QLoRA` · `VLMs` · `Modal` · `AWS S3` · `W&B`
+
+[**Explore the code →**](https://github.com/ANASS19/visionforge-ai) &nbsp;·&nbsp; [**Implementation guide →**](https://github.com/ANASS19/visionforge-ai/blob/main/docs/PROJECT_GUIDE.md)
+
+</div>
+
+---
+
 <table>
 <tr>
 <td width="50%" valign="top">
