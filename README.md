@@ -28,7 +28,7 @@ My approach: **build clean datasets → run reproducible experiments → evaluat
 <table>
 <tr>
 <td width="33%" align="center"><strong>73,374</strong><br><sub>Images in validated garment dataset</sub></td>
-<td width="33%" align="center"><strong>NVIDIA A100</strong><br><sub>Cloud training and model benchmarking</sub></td>
+<td width="33%" align="center"><strong>NVIDIA H100</strong><br><sub>Cloud training and model benchmarking</sub></td>
 <td width="33%" align="center"><strong>LLMs + CV</strong><br><sub>Research experiments and software delivery</sub></td>
 </tr>
 </table>
